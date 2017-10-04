@@ -1,0 +1,17 @@
+C:\Users\Henneberg\Documents\Git\SignalRChatRoom\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\Henneberg\Documents\Git\SignalRChatRoom\SignalRChat\bin\SignalRChat.dll
+C:\Users\Henneberg\Documents\Git\SignalRChatRoom\SignalRChat\bin\SignalRChat.pdb
+C:\Users\Henneberg\Documents\Git\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Henneberg\Documents\Git\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Henneberg\Documents\Git\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Henneberg\Documents\Git\SignalRChatRoom\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Henneberg\Documents\Git\SignalRChatRoom\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Henneberg\Documents\Git\SignalRChatRoom\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\Henneberg\Documents\Git\SignalRChatRoom\SignalRChat\bin\Owin.dll
+C:\Users\Henneberg\Documents\Git\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Henneberg\Documents\Git\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Henneberg\Documents\Git\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Henneberg\Documents\Git\SignalRChatRoom\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Henneberg\Documents\Git\SignalRChatRoom\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\Henneberg\Documents\Git\SignalRChatRoom\SignalRChat\obj\Release\SignalRChat.dll
+C:\Users\Henneberg\Documents\Git\SignalRChatRoom\SignalRChat\obj\Release\SignalRChat.pdb
